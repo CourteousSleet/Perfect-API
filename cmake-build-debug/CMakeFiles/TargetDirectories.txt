@@ -1,0 +1,3 @@
+D:/Programming/C++/Projects/Convinient-API/cmake-build-debug/CMakeFiles/Convinient_API.dir
+D:/Programming/C++/Projects/Convinient-API/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/C++/Projects/Convinient-API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
